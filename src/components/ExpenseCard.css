@@ -1,0 +1,9 @@
+.expense-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  .expense-card button {
+    margin-right: 0.5rem;
+  }
